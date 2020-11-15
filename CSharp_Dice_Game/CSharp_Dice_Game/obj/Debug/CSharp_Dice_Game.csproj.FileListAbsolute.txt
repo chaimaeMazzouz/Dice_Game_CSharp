@@ -1,0 +1,10 @@
+C:\Users\MZ\Desktop\C# cours\diceGme_C#\CSharp_Dice_Game\CSharp_Dice_Game\bin\Debug\CSharp_Dice_Game.exe.config
+C:\Users\MZ\Desktop\C# cours\diceGme_C#\CSharp_Dice_Game\CSharp_Dice_Game\bin\Debug\CSharp_Dice_Game.exe
+C:\Users\MZ\Desktop\C# cours\diceGme_C#\CSharp_Dice_Game\CSharp_Dice_Game\bin\Debug\CSharp_Dice_Game.pdb
+C:\Users\MZ\Desktop\C# cours\diceGme_C#\CSharp_Dice_Game\CSharp_Dice_Game\obj\Debug\CSharp_Dice_Game.csprojAssemblyReference.cache
+C:\Users\MZ\Desktop\C# cours\diceGme_C#\CSharp_Dice_Game\CSharp_Dice_Game\obj\Debug\CSharp_Dice_Game.Form1.resources
+C:\Users\MZ\Desktop\C# cours\diceGme_C#\CSharp_Dice_Game\CSharp_Dice_Game\obj\Debug\CSharp_Dice_Game.Properties.Resources.resources
+C:\Users\MZ\Desktop\C# cours\diceGme_C#\CSharp_Dice_Game\CSharp_Dice_Game\obj\Debug\CSharp_Dice_Game.csproj.GenerateResource.cache
+C:\Users\MZ\Desktop\C# cours\diceGme_C#\CSharp_Dice_Game\CSharp_Dice_Game\obj\Debug\CSharp_Dice_Game.csproj.CoreCompileInputs.cache
+C:\Users\MZ\Desktop\C# cours\diceGme_C#\CSharp_Dice_Game\CSharp_Dice_Game\obj\Debug\CSharp_Dice_Game.exe
+C:\Users\MZ\Desktop\C# cours\diceGme_C#\CSharp_Dice_Game\CSharp_Dice_Game\obj\Debug\CSharp_Dice_Game.pdb
